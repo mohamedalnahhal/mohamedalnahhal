@@ -1,7 +1,7 @@
 # Hi there, I'm Mohammed Alnahhal 👋
 **Software Engineer | Full-Stack Developer | Cybersecurity Student**
 
-A passionate cyber security engineering student with hands-on practical experience in full-stack development, and a strong “learn-it-all” mindset. I work primarily with React, Node.js, TypeScript, Svelte, SQL, REST APIs and Websockets. Committed to learn new technologies and enhance systems securely.
+A passionate cyber security engineering student with hands-on practical experience in full-stack development, and a strong “learn-it-all” mindset. I work primarily with Sveltekit, Node.js, TypeScript, SQL, REST APIs and Websockets. Committed to learn new technologies and enhance systems securely.
 
 ---
 ### 🚀 Featured Projects
