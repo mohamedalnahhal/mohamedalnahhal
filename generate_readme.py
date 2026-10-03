@@ -211,7 +211,10 @@ def force_close_file(data, cache_comment):
 
 def stars_counter(data):
     total_stars = 0
-    for node in data:
+    for i, node in enumerate(data):
+        if node is None or node.get('node') is None:
+            print(f'Skipping null node at index {i}')
+            continue
         total_stars += node['node']['stargazers']['totalCount']
     return total_stars
 
