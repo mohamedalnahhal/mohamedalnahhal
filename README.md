@@ -11,6 +11,7 @@ Currently researching **agentic AI security** for my FYP.
 
 ## 🔭 What I'm working on
 
+- **FYP**: researching how LLM agents can store persistence adversarial instructions
 - **Web products:** building full-stack apps, from government systems to SaaS platforms
 - **Side projects:** several startup ideas :)
 
@@ -29,7 +30,7 @@ Currently researching **agentic AI security** for my FYP.
 - Agentic AI & security
 - Novel attack primitives and threat modeling
 - Offline-first, secure systems for constrained environments
-- highly performative web apps
+- High-performance web applications
 
 ## 📫 Connect
 
