@@ -34,5 +34,6 @@ Currently researching **agentic AI security** for my FYP.
 
 ## 📫 Connect
 
+- Website: [personal website](https://mohamedalnahhal.github.io/portfolio/)
 - LinkedIn: [mohammed-alnahhal](www.linkedin.com/in/mohammed-alnahhal)
 - Email: anahallmohammed@email.com
